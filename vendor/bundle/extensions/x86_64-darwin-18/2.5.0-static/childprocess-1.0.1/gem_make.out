@@ -1,0 +1,5 @@
+current directory: /Users/hironobu/projects/ruby/rails_projects/alpha-blog/vendor/bundle/gems/childprocess-1.0.1/ext
+/Users/hironobu/.rbenv/versions/2.5.3/bin/ruby mkrf_conf.rb
+
+current directory: /Users/hironobu/projects/ruby/rails_projects/alpha-blog/vendor/bundle/gems/childprocess-1.0.1/ext
+/Users/hironobu/.rbenv/versions/2.5.3/bin/ruby -rrubygems /Users/hironobu/projects/ruby/rails_projects/alpha-blog/vendor/bundle/gems/rake-12.3.2/exe/rake RUBYARCHDIR=/Users/hironobu/projects/ruby/rails_projects/alpha-blog/vendor/bundle/extensions/x86_64-darwin-18/2.5.0-static/childprocess-1.0.1 RUBYLIBDIR=/Users/hironobu/projects/ruby/rails_projects/alpha-blog/vendor/bundle/extensions/x86_64-darwin-18/2.5.0-static/childprocess-1.0.1
