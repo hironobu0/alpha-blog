@@ -1,0 +1,16 @@
+include:
+  - ./**/*.rb
+exclude:
+  - spec/**/*
+  - test/**/*
+require: # https://github.com/castwide/solargraph/issues/87
+- actioncable
+- actionmailer
+- actionpack
+- actionview
+- activejob
+- activemodel
+- activerecord
+- activestorage
+- activesupport
+  .
